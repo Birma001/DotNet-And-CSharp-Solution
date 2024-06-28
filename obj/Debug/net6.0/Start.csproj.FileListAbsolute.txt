@@ -1,0 +1,8 @@
+C:\Users\DELL\Documents\Start\obj\Debug\net6.0\Start.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\Start\obj\Debug\net6.0\Start.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\Start\obj\Debug\net6.0\Start.AssemblyInfo.cs
+C:\Users\DELL\Documents\Start\obj\Debug\net6.0\Start.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\Abdullahi_7421\obj\Debug\net6.0\Start.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\Abdullahi_7421\obj\Debug\net6.0\Start.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\Abdullahi_7421\obj\Debug\net6.0\Start.AssemblyInfo.cs
+C:\Users\DELL\Documents\Abdullahi_7421\obj\Debug\net6.0\Start.csproj.CoreCompileInputs.cache
